@@ -13,15 +13,15 @@ This data will be invaluable for epidemiologists in fighting Covid-19 and future
 ## What we're doing
 
 **Datasets** (see page)
-*Linking to all global data sources, going  as locally as possible.
-*Saving that data in this repository.
-*Manually entering data where it isn't in a database or spreadsheet.
-*Processing the data into single global datasets.
+- Linking to all global data sources, going  as locally as possible.
+- Saving that data in this repository.
+- Manually entering data where it isn't in a database or spreadsheet.
+- Processing the data into single global datasets.
 
 **Visualization** (see page)
-*Developing a web map for use on both desktop and mobile.
-*Developing further visualizations for mapping, graphing, mapping and so on.
-*Linking to the best data visualizations.
+- Developing a web map for use on both desktop and mobile.
+- Developing further visualizations for mapping, graphing, mapping and so on.
+- Linking to the best data visualizations.
 
 Here is our current spreadsheet of data sources for each country:
 https://docs.google.com/spreadsheets/d/1FH8jc-wqf4tPsj3vSVWKi2bh-0VsramTDAAqJFNoEo0/edit#gid=0
@@ -29,17 +29,20 @@ https://docs.google.com/spreadsheets/d/1FH8jc-wqf4tPsj3vSVWKi2bh-0VsramTDAAqJFNo
 ## Contribute
 
 **Volunteer:**
+
 If you can help us with each of the items above, that would be fantastic.
 Just jump in or email us here to ask how you can help:
+
 volunteer@coronastate.org
 
 **Donate:**
+
 This project requires development and coordination that will go slowly and will not be completed if only by volunteers. We need dedicated people so we can do the work thoroughly. We need people to invest in us with one time or regular donations.
 
 Milestones needed, as of April 9, 2020:
-$5,000 will allow us to firmly establish the project and its tools.
-$15,000 will enable us to gather a global breadth of data.
-$50,000 will enable us to truly cover the breadth of data and visualize it.
-We can go further. Every amount of money can be put to good use.
+- $5,000 will allow us to firmly establish the project and its tools.
+- $15,000 will enable us to gather a global breadth of data.
+- $50,000 will enable us to truly cover the breadth of data and visualize it.
+- We can go further. Every amount of money can be put to good use.
 
 Click here for more details and to donate.
